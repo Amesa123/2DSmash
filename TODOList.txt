@@ -1,0 +1,5 @@
+1) Get a Basic Character going. Size him up. with responsive jump and movement to test levels with.
+2) Camera Movement/scaling
+3) build sample level. 
+4) Build AI or PVP?
+5) Profit!
